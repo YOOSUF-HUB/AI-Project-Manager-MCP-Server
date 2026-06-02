@@ -807,7 +807,7 @@ This demonstrates:
 
 This project is for local learning and portfolio demonstration.
 
-For production use, improve it with:
+For production use, you can improve it with:
 
 - Authentication
 - Role-based access control
@@ -848,20 +848,6 @@ Possible upgrades:
 
 ---
 
-## Learning Outcomes
-
-This project demonstrates:
-
-- Building a Python MCP server
-- Exposing backend functions as AI-callable tools
-- Connecting an MCP server to SQLite
-- Testing tools with MCP Inspector
-- Connecting local MCP servers to Claude Desktop
-- Creating AI-triggered write actions safely
-- Adding audit logs for traceability
-- Generating sprint risk and client status reports
-
----
 
 ## Project Status
 
